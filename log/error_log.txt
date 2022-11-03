@@ -1,0 +1,32 @@
+[15-Jul-2021 09:33:45 UTC] PHP Notice:  Undefined property: Reservation::$1 in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab07_AGu36004\inc\Entity\Page.class.php on line 190
+[15-Jul-2021 09:33:45 UTC] PHP Stack trace:
+[15-Jul-2021 09:33:45 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab07_AGu36004\Lab07_AGu36004.php:0
+[15-Jul-2021 09:33:45 UTC] PHP   2. Page::editReservationForm() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab07_AGu36004\Lab07_AGu36004.php:117
+[15-Jul-2021 09:33:45 UTC] PHP Notice:  Undefined property: Reservation::$2 in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab07_AGu36004\inc\Entity\Page.class.php on line 190
+[15-Jul-2021 09:33:45 UTC] PHP Stack trace:
+[15-Jul-2021 09:33:45 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab07_AGu36004\Lab07_AGu36004.php:0
+[15-Jul-2021 09:33:45 UTC] PHP   2. Page::editReservationForm() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab07_AGu36004\Lab07_AGu36004.php:117
+[15-Jul-2021 09:33:45 UTC] PHP Notice:  Undefined property: Reservation::$3 in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab07_AGu36004\inc\Entity\Page.class.php on line 190
+[15-Jul-2021 09:33:45 UTC] PHP Stack trace:
+[15-Jul-2021 09:33:45 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab07_AGu36004\Lab07_AGu36004.php:0
+[15-Jul-2021 09:33:45 UTC] PHP   2. Page::editReservationForm() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab07_AGu36004\Lab07_AGu36004.php:117
+[15-Jul-2021 09:33:45 UTC] PHP Notice:  Undefined property: Reservation::$4 in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab07_AGu36004\inc\Entity\Page.class.php on line 190
+[15-Jul-2021 09:33:45 UTC] PHP Stack trace:
+[15-Jul-2021 09:33:45 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab07_AGu36004\Lab07_AGu36004.php:0
+[15-Jul-2021 09:33:45 UTC] PHP   2. Page::editReservationForm() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab07_AGu36004\Lab07_AGu36004.php:117
+[15-Jul-2021 09:33:45 UTC] PHP Notice:  Undefined property: Reservation::$5 in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab07_AGu36004\inc\Entity\Page.class.php on line 190
+[15-Jul-2021 09:33:45 UTC] PHP Stack trace:
+[15-Jul-2021 09:33:45 UTC] PHP   1. {main}() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab07_AGu36004\Lab07_AGu36004.php:0
+[15-Jul-2021 09:33:45 UTC] PHP   2. Page::editReservationForm() C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab07_AGu36004\Lab07_AGu36004.php:117
+[10-Aug-2021 21:29:24 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Reservation as array in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab07_AGu36004\Lab07_AGu36004.php:118
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab07_AGu36004\Lab07_AGu36004.php on line 118
+[10-Aug-2021 21:29:42 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Reservation as array in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab07_AGu36004\Lab07_AGu36004.php:118
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab07_AGu36004\Lab07_AGu36004.php on line 118
+[10-Aug-2021 21:30:35 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Reservation as array in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab07_AGu36004\Lab07_AGu36004.php:118
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Ashu\OneDrive\Desktop\Web based Scripting\class work\Lab07_AGu36004\Lab07_AGu36004.php on line 118
